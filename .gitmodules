@@ -1,0 +1,4 @@
+[submodule "sources/poky"]
+	path = sources/poky
+	url = https://git.yoctoproject.org/poky
+	branch = scarthgap
