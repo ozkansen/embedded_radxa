@@ -1,0 +1,5 @@
+machine/rock5a/tmp/
+machine/rock5a/sstate-cache/
+machine/rock5a/cache/
+machine/rock5a/bitbake-cookerdaemon.log
+downloads/
